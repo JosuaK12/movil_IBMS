@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="IBMS_MOVIL.Views.LoginPage"
+             Shell.NavBarIsVisible="False">
+    <ContentPage.Content>
+        <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
+            <Image Source=""/>
+            <Label Text="Usuario"/>
+            <Entry Text="" />
+            <Label Text="Contraseña"/>
+            <Entry Text="" IsPassword="True" />
+            <Label Text="¿Olvidó su contraseña?" HorizontalOptions="End"/>
+            <Button BorderWidth="1" 
+            BorderColor="Black" 
+            BackgroundColor="WhiteSmoke"
+            BorderRadius="20"
+            ImageSource="Login.png"
+            FontSize="20"
+            TextColor="Black" VerticalOptions="Center" Text="Login" Command="{Binding LoginCommand}" />
+            <Button BorderWidth="1" 
+            BorderColor="Black" 
+            BackgroundColor="WhiteSmoke"
+            BorderRadius="20"
+            ImageSource="Login.png"
+            FontSize="20"
+            TextColor="Black" VerticalOptions="Center" Text="Registrase" Command="{Binding LoginCommand}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,20 @@
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\bin\Debug\netstandard2.0\IBMS MOVIL.deps.json
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\bin\Debug\netstandard2.0\IBMS MOVIL.dll
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\bin\Debug\netstandard2.0\IBMS MOVIL.pdb
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\IBMS MOVIL.csproj.AssemblyReference.cache
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\IBMS MOVIL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\IBMS MOVIL.AssemblyInfoInputs.cache
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\IBMS MOVIL.AssemblyInfo.cs
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\IBMS MOVIL.csproj.CoreCompileInputs.cache
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\IBMS MOVIL.dll
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\refint\IBMS MOVIL.dll
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\IBMS MOVIL.pdb
+D:\Personal\Josua u\10mo Semestre\Aplicacion\IBMS MOVIL\IBMS MOVIL\obj\Debug\netstandard2.0\ref\IBMS MOVIL.dll
